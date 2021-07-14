@@ -1,0 +1,13 @@
+name: shinyQuery
+title: shinyQuery
+username:
+account: superduper
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4012404
+bundleId: 4818136
+url: https://superduper.shinyapps.io/shinyQuery/
+when: 1626255620.07732
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: init/.DS_Store|Input/.DS_Store|Input/query.xlsx|Output/.DS_Store|Output/metabolist.xlsx
